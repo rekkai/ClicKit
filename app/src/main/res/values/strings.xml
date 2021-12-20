@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ClicKit</string>
+    <string name="clickit">ClicKit</string>
+    <string name="photo_image">photo image</string>
 </resources>
